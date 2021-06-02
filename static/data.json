@@ -1,0 +1,19 @@
+{
+  "labels": [
+    "6",
+    "12",
+    "18",
+    "24",
+    "30",
+    "36",
+    "48",
+    "60"
+  ],
+  "datasets": [
+    {
+      "label": "Autovetture",
+      "backgroundColor": ["#d19fe8", "#efdecd", "#e52b50", "#a4c639", "#7fffd4", "#ff9966", "#faf0be", "#66ff00"],
+      "data": [12, 16, 15, 9, 5, 1, 1, 1]
+    }
+  ]
+}
